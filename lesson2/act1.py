@@ -16,3 +16,12 @@ print("datatype of isstudent is", type(isstudent))
 
 print("weight:", weight)
 print("datatype of weight is", type(weight))
+
+# typecasting
+age = str(age)
+print("datatype of age is :",type(age))
+
+weight = float(weight)
+print("Datatype of weight is : ", type(weight).__name__)
+print("Value of weight : ", weight)
+                                                                                                                                                                                                                                                          
